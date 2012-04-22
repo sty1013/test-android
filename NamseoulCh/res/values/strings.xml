@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NamseoulCh</string>
+    <string name="button_introduce_church">Introduce</string>
+    <string name="title_introduce_church">introduce_church</string>
+
+</resources>
