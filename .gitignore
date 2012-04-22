@@ -1,3 +1,8 @@
+# binary folder #
+bin
+
+# compile result #
+
 *.class
 
 # Package Files #
